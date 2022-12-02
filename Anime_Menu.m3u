@@ -1,0 +1,19 @@
+#EXTM3U size="Big"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",TODOS OS ANIMES
+#EXTBG: #11609e
+http://ds.kromos.in/ssiptv/get/FNJunior/f.n.juniorj10342/list_series/-1/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",ACAO
+#EXTBG:https://i.imgur.com/JCcgEeo.png
+http://ds.kromos.in/ssiptv/get/FNJunior/f.n.juniorj10342/list_lives/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",ARTES MARCIAIS
+#EXTBG:https://i.imgur.com/vnPmfhz.png
+http://ds.kromos.in/ssiptv/get/FNJunior/f.n.juniorj10342/movie_categories/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",AVENTURA
+#EXTBG:https://i.imgur.com/vJD9S1U.png
+http://ds.kromos.in/ssiptv/get/FNJunior/f.n.juniorj10342/serie_categories/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",DRAMA
+#EXTBG:https://i.imgur.com/vJD9S1U.png
+http://ds.kromos.in/ssiptv/get/FNJunior/f.n.juniorj10342/serie_categories/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",COMEDIA
+#EXTBG:https://i.imgur.com/vJD9S1U.png
+http://ds.kromos.in/ssiptv/get/FNJunior/f.n.juniorj10342/serie_categories/
